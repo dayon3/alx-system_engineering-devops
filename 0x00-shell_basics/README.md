@@ -16,4 +16,6 @@
 
 `7-movethafile` - Script to move the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 
-`8-firstdelete` - Script to delete the file `betty`.	
+`8-firstdelete` - Script to delete the file `betty`.
+
+`9-firstdirdeletion` - Script to delete the directory `my_first_directory` that is in the `/tmp` directory.	
