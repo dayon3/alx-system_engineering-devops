@@ -9,3 +9,5 @@
 `3-listfiles` - Script that displays current directory contents in a long format.
 
 `4-listmorefiles` - Script that displays current directory contents, including hidden files (starting with `.`). Using the long format.
+
+`5-listfilesdigitonly` - Script that displays current directory contents in long format, with user and group IDs displayed numerically, and hidden files (starting with `.`).
