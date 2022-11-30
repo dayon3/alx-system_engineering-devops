@@ -18,4 +18,6 @@
 
 `8-firstdelete` - Script to delete the file `betty`.
 
-`9-firstdirdeletion` - Script to delete the directory `my_first_directory` that is in the `/tmp` directory.	
+`9-firstdirdeletion` - Script to delete the directory `my_first_directory` that is in the `/tmp` directory.
+
+`10-back` - Script that changes the working directory to the previous one.
