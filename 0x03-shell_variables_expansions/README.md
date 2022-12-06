@@ -15,3 +15,5 @@
 `5-local_variables` - A script that lists all local variables and environment variables, and functions.
 
 `6-create_local_variable` - A script that creates a new local variable name: `BEST` with the value `School`.
+
+`7-create_global_variable` - A script that creates a new global variable name: `BEST` with the value `School`.
